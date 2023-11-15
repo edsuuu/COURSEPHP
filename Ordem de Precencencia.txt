@@ -1,0 +1,9 @@
+| ->  () Conta dentro de Parenteses
+|
+| -> ** Potencia
+|
+| -> * / %  Multiplicação, Divisão, Porcetagem
+|
+| ->  +  -  Adição e Subtração
+
+
